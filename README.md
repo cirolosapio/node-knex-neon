@@ -1,3 +1,5 @@
 # node-knex-neon
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/node-rhm6ly)
+[Create a Neon DB](https://console.neon.tech/)
+
+[Edit on StackBlitz ⚡️](https://stackblitz.com/~/github.com/cirolosapio/node-knex-neon)
