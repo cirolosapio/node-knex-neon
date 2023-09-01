@@ -1,6 +1,7 @@
 {
   "name": "node-starter",
   "version": "0.0.0",
+  "packageManager": "pnpm",
   "scripts": {
     "up": "knex migrate:up",
     "down": "knex migrate:down"
